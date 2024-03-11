@@ -2,6 +2,6 @@
 
 # 🧱 About
 
-I'm AleStoCactus
+I'm AleStoCactus ❤️
 
-I'm 18
+I'm 18 😎
