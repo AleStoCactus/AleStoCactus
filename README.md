@@ -10,4 +10,4 @@ I'm 18 😎
 
 [![AleStoCactus's GitHub stats](https://github-readme-stats.vercel.app/api?username=alestocactus&show_icons=true&theme=transparent)](https://github.com/AleStoCactus/AleStoCactus)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/340883550704369686)](https://discord.com/users/340883550704369686)
+[![Discord Presence](https://lanyard.cnrad.dev/api/340883550704369686bg=trasparent)](https://discord.com/users/340883550704369686)
